@@ -68,7 +68,6 @@ Milestone1/
 
 ## 6. Screenshots
 
-Take screenshots from your running app and save them under `screenshots/` with the filenames below. Do not use made-up screenshots or screenshots containing a real OTP, public URL you do not want to share, password, secret, or private user information.
 
 ### Login
 ![Login page](screenshots/login.png)
